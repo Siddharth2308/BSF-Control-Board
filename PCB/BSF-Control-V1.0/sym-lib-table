@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BSF-Lib")(type "KiCad")(uri "${KIPRJMOD}/Libs/BSF-Lib.kicad_sym")(options "")(descr ""))
+)
